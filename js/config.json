@@ -1,0 +1,8 @@
+{
+    "moduleList"    : 2,
+    "moduleCode"    : ["Bank1","Bank2"],
+    "moduleName"    : ["Bank 1 ---- Block 1" ,"Bank 2"],
+    "moduleVersions": [1,1],
+    "verifyTest"    : [-1, -1],
+    "subPart"       : [[1],[2]]
+}
